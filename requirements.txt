@@ -1,0 +1,10 @@
+PyQt6
+opencv-python
+watchdog
+reportlab
+requests
+Pillow
+numpy
+scikit-learn
+matplotlib
+easyocr
