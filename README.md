@@ -22,6 +22,11 @@
 | 帮助中心 | 树形目录导航，富文本（HTML）手册展示，关键词搜索与高亮跳转，常见问题折叠面板 |
 | 关于系统 | 版本信息、技术栈、开源许可展示，模拟检查更新 |
 
+## 部分截图
+
+<img width="777" height="771" alt="image" src="https://github.com/user-attachments/assets/2b2e8f55-aedb-4dff-b4a3-090c4f4268d7" />
+<img width="651" height="693" alt="image" src="https://github.com/user-attachments/assets/c9805160-62a7-4261-99d5-7880bb39fe67" />
+
 ## 技术栈
 
 - **语言**：Python 3.10+
@@ -58,8 +63,10 @@ Progress: |███████████████████████
 
 ## 使用说明
 
-详细操作请参阅系统内「帮助中心」或随项目文档提供的《操作手册》。核心流程：
-
+详细操作请参阅系统内「帮助中心」或随项目文档提供的《操作手册》。
+<img width="984" height="468" alt="image" src="https://github.com/user-attachments/assets/8cb238fe-2f3a-42ee-af54-328d614b9c41" />
+<img width="723" height="762" alt="image" src="https://github.com/user-attachments/assets/5b521324-fac3-409a-9dc7-8ff6ea41b596" />
+核心流程：
 1. **登录/注册**：使用默认账号登录，或注册新账户（需邮箱验证）。
 2. **单张审核**：上传图片 → 自动检测（内容分类+OCR）→ 人工确认 → 保存结果或导出 PDF。
 3. **批量审核**：导入多个图片 → 设置并发数 → 开始审核 → 保存入库 → 导出 CSV 汇总。
